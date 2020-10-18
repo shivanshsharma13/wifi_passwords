@@ -5,7 +5,7 @@ it' a perfect program.
 
 ## Clone the project 🌀
 
-- Please run this on your terminal or from bash, and if you want to run from editor remove line 1. 
+- Please run this on your command line or from bash, and if you want to run from editor remove line 1. 
 
 - Now, please make sure that, you need git bash for cloning the project, if you don't have please download a zip file. And direct run the file from terminal `python wifi.py`
 
