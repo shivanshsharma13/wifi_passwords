@@ -3,6 +3,8 @@
 wifi password is a python program for showing you all the passwords you already have on your computer with simple ```netsh```
 it is a perfect program.
 
+![GUI](gui.png)
+
 ## Clone the project 🌀
 
 - Please run this on your command line or from bash, and if you want to run from editor remove line 1. 
